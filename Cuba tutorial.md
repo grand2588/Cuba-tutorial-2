@@ -41,6 +41,6 @@
 http://www.diva-gis.org/gdata
 
 ## Historical maps
-The map "Cuba, Island" can be downloaded at http://jcb.lunaimaging.com/luna/servlet/detail/JCBMAPS~1~1~6264~115902445:Cuba-en-Iamaica,-soo-als-die-door-K?sort=normalized_date%2Cfile_name%2Csource_author%2Csource_title&qvq=q:cuba;sort:normalized_date%2Cfile_name%2Csource_author%2Csource_title;lc:JCBMAPS~1~1&mi=52&trs=126
+The map "Cuba, Island" can be downloaded [here](http://jcb.lunaimaging.com/luna/servlet/detail/JCBMAPS~1~1~6264~115902445:Cuba-en-Iamaica,-soo-als-die-door-K?sort=normalized_date%2Cfile_name%2Csource_author%2Csource_title&qvq=q:cuba;sort:normalized_date%2Cfile_name%2Csource_author%2Csource_title;lc:JCBMAPS~1~1&mi=52&trs=126)
 
-The map "Port of Havana" can be downloaded at http://jcb.lunaimaging.com/luna/servlet/detail/JCBMAPS~1~1~1089~101600001:Port-de-la-Havane-dans-l-Isle-de-Cu?sort=normalized_date%2Cfile_name%2Csource_author%2Csource_title&qvq=q:havana;sort:normalized_date%2Cfile_name%2Csource_author%2Csource_title;lc:JCBMAPS~1~1&mi=21&trs=32
+The map "Port of Havana" can be downloaded [here](http://jcb.lunaimaging.com/luna/servlet/detail/JCBMAPS~1~1~1089~101600001:Port-de-la-Havane-dans-l-Isle-de-Cu?sort=normalized_date%2Cfile_name%2Csource_author%2Csource_title&qvq=q:havana;sort:normalized_date%2Cfile_name%2Csource_author%2Csource_title;lc:JCBMAPS~1~1&mi=21&trs=32)
