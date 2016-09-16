@@ -13,7 +13,7 @@
 
 4.	Set up CRS (Coordinate Reference System) so that the project is using the NAD27/Cuba Norte Geographic Coordinate system. Go to "Project Properties" under the File menu. Make sure you are in the CRS tab, and then click "Enable on the fly CRS transformation." You can then search for NAD27/Cuba Norte and apply the change at the bottom of the panel.
 
-![CRS selection](/Screenshots/CRS Selection.png)
+![CRS selection](/Screenshots/CRS selection.png)
 
 5.	Build a base map: Open these vectors, then change the way they look using the “properties”
     - CUB\_adm0.shp; change so there is no color fill. Click on fill style and select simple line
@@ -30,7 +30,7 @@
 
 9.	In the left-hand “layers” panel, drag the raster layer so you can see the parish lines over the historical map.
 
-![Poorly georeferenced island](/Screenshots/Poorly georefrenced island.png)
+![Poorly georeferenced island](/Screenshots/Poorly geofrenced island.png)
 
 10.	Go back to Blackboard and download the file named Port of Havana_modified.tif. Import that into QGIS. Drag the raster over your GIS map. You can also adjust the transparency on both of your historical maps in order to see the provincial boundaries.
 
