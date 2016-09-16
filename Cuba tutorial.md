@@ -30,7 +30,7 @@
 
 9.	In the left-hand “layers” panel, drag the raster layer so you can see the parish lines over the historical map.
 
-![Poorly georeferenced island](/Screenshots/Poorly georeferenced island.png)
+![Poorly georeferenced island](/Screenshots/Poorly georefrenced island.png)
 
 10.	Go back to Blackboard and download the file named Port of Havana_modified.tif. Import that into QGIS. Drag the raster over your GIS map. You can also adjust the transparency on both of your historical maps in order to see the provincial boundaries.
 
